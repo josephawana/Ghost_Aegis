@@ -1,0 +1,10 @@
+# Python stuff
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Ghost-Aegis specific
+ghost_aegis.log
+shield.ico (optional, keep if you want)
